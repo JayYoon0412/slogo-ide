@@ -4,6 +4,7 @@ Jay Yoon, Rodrigo Bassi Guerreiro, Trevon Helm, Andy Wang
 
 ## Introduction
 Our team seeks to create an easy-to-use application for creating and manipulating graphics using simple Logo language. The interpreter allows the user to move the turtle around the screen, draw lines and shapes, and create complex designs and patterns with just a few simple commands. Our project is designed to be intuitive and user-friendly, with a graphical user interface that makes it easy to enter commands and see the results update in real time.
+![스크린샷 2023-05-11 오후 4 23 36](https://github.com/JayYoon0412/slogo-ide/assets/90667275/876cb743-5eaa-414c-ae88-8dd08c4fe477)
 
 
 ## Configuration File Format
