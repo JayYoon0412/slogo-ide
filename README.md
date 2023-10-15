@@ -1,6 +1,5 @@
 # SLogo Design Plan
-### Jay Yoon, Rodrigo Bassi Guerreiro, Trevon Helm, Andy Wang
-### TEAM 02
+Jay Yoon, Rodrigo Bassi Guerreiro, Trevon Helm, Andy Wang
 
 
 ## Introduction
